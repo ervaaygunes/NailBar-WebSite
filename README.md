@@ -20,7 +20,6 @@ Bu proje, **HTML ve CSS ile oluşturulmuş basit bir Nail Art ve güzellik salon
 - **`hakkimizda.html`** → İşletme bilgileri ve çalışma saatleri
 - **`hizmetlerimiz.html`** → Sunulan hizmetler
 - **`randevu.html`** → Randevu formu
-- **`images/`** → Web sitesinde kullanılan görseller
 
 ---
 
